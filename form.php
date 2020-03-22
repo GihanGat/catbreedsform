@@ -8,7 +8,7 @@
 </head>
 <body>
     <!-- <form action="https://catbreeds.appspot.com/" method="post"> -->
-    <form action="http://localhost/catbreeds/index.php" method="post">
+    <form action="https://catbreed-form.herokuapp.com/index.php" method="post">
         <div class="field">
             <label for="breed_name">Breed Name</label>
             <input type="text" name="breed_name" id="breed_name">
