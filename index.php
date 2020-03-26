@@ -2,9 +2,9 @@
 $request = $_SERVER['REQUEST_URI'];
 //print_r($request);
 switch ($request) {
-    // case ' ' :
-    //     require 'form.php';
-    //     break;
+    case '' :
+        require 'form.php';
+         break;
     case '/form' :
         require 'form.php';
     break;
