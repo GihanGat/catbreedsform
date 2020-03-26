@@ -16,7 +16,7 @@
     <div id="form_container">
     
         <h1><a>Cat Breeds Form</a></h1>
-        <form id="catbreedsform" class="appnitro"  action="https://catbreed-form.herokuapp.com/index.php" method="post">
+        <form id="catbreedsform" class="appnitro"  action="https://catbreed-form.herokuapp.com/send.php" method="post">
             <div class="form_description">
             <h2>Cat Breeds</h2>
             </div>                      
