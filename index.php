@@ -58,6 +58,7 @@ try{
         // $insert->execute(array("test breed4",5,3,2,4));
     }
 
+    echo("New cat breed has been records. Thank you for your contribution.");
 
     // $select = $pdo->prepare('SELECT * FROM catbreeds');
     // $select->execute();
